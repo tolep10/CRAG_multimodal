@@ -1,0 +1,66 @@
+#container {
+    background-color: black;
+    max-width: 1000px;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+
+#controls {
+    background-color: #212121;
+    max-width: 1000px;
+    border-radius: 3px;
+    padding: 2px;
+}
+
+#send-input {
+    width: 90px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+
+#user-input {
+    border: none;
+    border-radius: 3px;
+}
+
+img {
+    padding: 1px;
+    width: 25%;
+    height: 25%;
+}
+
+
+.p-query {
+    background-color: #424242;
+    color: white;
+    border-radius: 3px;
+    max-width: 60%;
+    padding: 3px;
+    font-size: 13px;
+}
+
+.sub-container {
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.div-pq-pc {
+    max-width: 100%;
+}
+
+.content-response{
+    color: white;
+    font-family: consolas;
+    font-size: 13px;
+    background-color:  #212121;
+    padding: 3px;
+    border-radius: 3px;
+    max-width: 98%;
+    min-height: 30px;
+}
